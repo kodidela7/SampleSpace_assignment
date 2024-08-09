@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SampleSpace_assignment/static/css/main.d11e577e.css",
+    "main.js": "/SampleSpace_assignment/static/js/main.ff7db68e.js",
+    "index.html": "/SampleSpace_assignment/index.html",
+    "main.d11e577e.css.map": "/SampleSpace_assignment/static/css/main.d11e577e.css.map",
+    "main.ff7db68e.js.map": "/SampleSpace_assignment/static/js/main.ff7db68e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d11e577e.css",
+    "static/js/main.ff7db68e.js"
+  ]
+}
