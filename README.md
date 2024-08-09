@@ -17,7 +17,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-URL>
+   git clone https://github.com/kodidela7/SampleSpace_assignment.git
 
 2. **Navigate to the Project Directory
     ```bash
